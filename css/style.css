@@ -22,7 +22,7 @@ body {
     font-size: 13px;
     line-height: 20px;
     position: relative;
-    background: #fff;
+    background: #000000;
     padding: 0;
     margin: 0;
     overflow: visible;
@@ -44,7 +44,7 @@ div.body {
 ::-moz-selection {
     color: #ccc;
     text-shadow: none;
-    background: #ccc;
+    background: #000000;
 }
 ::-webkit-input-placeholder {
     color: #fff !important;
@@ -348,10 +348,13 @@ OFFER SECTION
     transition: all 0.5s
 }
 .offer-section a:hover{
-    background: #C8197F;
+    background: #0b0007;
 }
 
 .benefit-section {
+
+
+
     text-align: center;
 }
 
@@ -437,7 +440,7 @@ MESSAGE SECTION
 .message-section {
     padding: 75px 0;
     text-align: center;
-    background: #fbf8fb;
+    background: #000000;
     display: block;
 }
 .message-section h2{
@@ -453,6 +456,7 @@ MESSAGE SECTION
     font-weight: 400;
     line-height: 26px;
     color: #474747
+    
 }
 
 .news-section {
@@ -515,7 +519,7 @@ CLIENT SECTION
 .client-section {
     text-align: center;
     display: block;
-    background: #fbf8fb;
+    background: #000000;
     padding-top: 82px
 }
 .client-section .section-title{
@@ -547,7 +551,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item .client-content {
-    background: #fff;
+    background: #000000;
     padding: 20px;
     padding-bottom: 60px;
     box-shadow: 0 1px 10px 1px #E8E8E8;
@@ -558,7 +562,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item .client-content {
-    background: #fff;
+    background: #000000;
     padding: 20px;
     padding-bottom: 60px;
 }
@@ -597,7 +601,7 @@ i.fa.fa-quote-left {
     BLOG SECTION
 */
 .blog-section {
-    background: #fff;
+    background: #070000;
     display: block;
     text-align: center;
     padding: 80px 0;
@@ -678,7 +682,7 @@ TABLE SECTION
 }
 
 .table-section .section-title{
-    color: #fff;
+    color: #000000;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -700,7 +704,7 @@ TABLE SECTION
 }
 
 .table-item {
-    background: #fff;
+    background: #000000;
     border-radius: 5px;
     padding-top: 30px;
     padding-bottom: 10px;
@@ -814,7 +818,7 @@ FOOTER SECTION
 }
 
 .social-media > li > a {
-    background: #e2e2e2;
+    background: #000000;
     border-radius: 50%;
     display: block;
     height: 40px;
@@ -833,7 +837,7 @@ FOOTER SECTION
     font-size: 18px;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: #ea59ad;
+    background: #000000;
     color: #fff !important;
 }
 
