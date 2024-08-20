@@ -47,10 +47,10 @@ div.body {
     background: #ccc;
 }
 ::-webkit-input-placeholder {
-    color: #fff !important;
+    color: #E0E0E0 !important;
 }
 :-moz-placeholder {
-    color: #fff !important;
+    color: #E0E0E0 !important;
 }
 ::-moz-placeholder {
     color: #012d21 !important;
@@ -202,7 +202,7 @@ button.navbar-toggle {
 }
 
 .navbar-nav > li > a {
-    color: #fff !important;
+    color: #E0E0E0 !important;
     font-size: 14px;
     font-family:'ProximaNovaA-Semibold';
 }
@@ -265,7 +265,7 @@ i.fa.fa-shopping-cart {
     font-weight: 800;
     text-transform: uppercase;
     font-family:'ProximaNova-Extrabld';
-    color: #fff;
+    color: #E0E0E0;
     margin:0;
 }
 
@@ -273,7 +273,7 @@ i.fa.fa-shopping-cart {
     font-family:'ProximaNovaA-Regular';
     font-size: 14px;
     font-weight: 400;
-    color: #fff;
+    color: #E0E0E0;
     margin: 0;
 }
 
@@ -281,7 +281,7 @@ i.fa.fa-shopping-cart {
 Purilfy section
  */
 .purilfy-section {
-    color: #fff;
+    color: #E0E0E0;
     background: #012d21;
     display: block;
     text-align: center;
@@ -294,7 +294,7 @@ Purilfy section
 .purifliy-item > h3 {
     margin: 0;
     padding: 0;
-    color:#fff;
+    color:#E0E0E0;
     font-weight: 700;
     font-family:'ProximaNovaA-Bold';
     font-size: 26px;
@@ -321,7 +321,7 @@ OFFER SECTION
 .offer-section h2{
     margin: 0;
     padding: 0;
-    color:#fff;
+    color:#E0E0E0;
     font-weight: 700;
     font-family:'ProximaNovaA-Bold';
     font-size: 26px;
@@ -329,7 +329,7 @@ OFFER SECTION
 }
 .offer-section h4{
     font-size: 16px;
-    color: #fff;
+    color: #E0E0E0;
     display: block;
     font-family:'ProximaNovaA-Semibold';
     margin: 0;
@@ -337,7 +337,7 @@ OFFER SECTION
 }
 .offer-section a{
     background: #012d21;
-    color: #fff;
+    color: #E0E0E0;
     font-size: 16px;
     text-transform: uppercase;
     font-family:'ProximaNovaA-Semibold';
@@ -357,7 +357,7 @@ OFFER SECTION
 }
 
 .section-title {
-    color:whitesmoke  ;
+    color:#E0E0E0  ;
     font-family:'ProximaNovaA-Semibold';
     font-weight: 600;
 
@@ -365,19 +365,19 @@ OFFER SECTION
 }
 .benefit-item {
     text-align: center;
-    border-top: 1px solid whitesmoke;
-    border-left: 1px solid whitesmoke;
-    border-bottom: 1px solid whitesmoke;
+    border-top: 1px solid #E0E0E0;
+    border-left: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
     background-color: #012d21;
     padding: 0;
 }
 
 .benefit-item:last-child{
-    border-right: 1px solid whitesmoke;
+    border-right: 1px solid #E0E0E0;
 }
 
 .benefit-item > h3 {
-    color:  whitesmoke;
+    color:  #E0E0E0;
     font-family:'ProximaNovaA-Semibold';
     font-weight: 600;
 }
@@ -407,7 +407,7 @@ OFFER SECTION
     font-family:'ProximaNovaA-Regular';
     font-size: 15px;
     line-height: 24px;
-    color: whitesmoke;
+    color: #E0E0E0;
     padding: 0 10px;
     margin: 0;
     min-height: 65px;
@@ -417,7 +417,7 @@ OFFER SECTION
     color: rgb(71, 65, 65);
 }
 .benefit-item:hover p{
-    color: #fff;
+    color: #E0E0E0;
 }
 
 .benefit-item:hover h2{
@@ -429,7 +429,7 @@ OFFER SECTION
 }
 
 .benefit-item:hover h3{
-    color: #fff;
+    color: #E0E0E0;
 }
 
 
@@ -447,14 +447,14 @@ MESSAGE SECTION
     font-family:'ProximaNovaA-Bold';
     font-weight: 700;
     text-align: center;
-    color:whitesmoke
+    color:#E0E0E0
 }
 .message-section p{
     font-family:'ProximaNovaA-Regular';
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
-    color: whitesmoke;
+    color: #E0E0E0;
 }
 
 .news-section {
@@ -496,7 +496,7 @@ MESSAGE SECTION
 
 .content > span {
     font-size: 20px;
-    color: whitesmoke;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
 
@@ -507,7 +507,7 @@ MESSAGE SECTION
     font-family:'ProximaNovaA-Bold';
     font-weight: 700;
     text-align: left;
-    color:whitesmoke;
+    color:#E0E0E0;
     line-height: 40px;
 }
 
@@ -521,7 +521,7 @@ CLIENT SECTION
     padding-top: 82px
 }
 .client-section .section-title{
-    color: whitesmoke;
+    color: #E0E0E0;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -531,7 +531,7 @@ CLIENT SECTION
 
 .client-section .title-cap {
     font-size: 16px;
-    color: whitesmoke;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
     display: block;
@@ -549,7 +549,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item .client-content {
-    background: #fff;
+    background: #E0E0E0;
     padding: 20px;
     padding-bottom: 60px;
     box-shadow: 0 1px 10px 1px #E8E8E8;
@@ -560,7 +560,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item .client-content {
-    background: #fff;
+    background: #E0E0E0;
     padding: 20px;
     padding-bottom: 60px;
 }
@@ -576,7 +576,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item > h3 {
-    color: whitesmoke;
+    color: #E0E0E0;
     font-weight: 600;
     font-family:'ProximaNovaA-Semibold';
     font-size: 16px;
@@ -606,7 +606,7 @@ i.fa.fa-quote-left {
 }
 
 .blog-section .title-section{
-    color: whitesmoke;
+    color: #E0E0E0;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -616,7 +616,7 @@ i.fa.fa-quote-left {
 
 .blog-section .title-cap {
     font-size: 16px;
-    color: whitesmoke;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
     display: block;
@@ -648,14 +648,14 @@ i.fa.fa-quote-left {
     padding: 0;
     font-size: 18px;
     font-weight: 700;
-    color: whitesmoke;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Bold';
     margin-bottom: 10px;
 }
 
 .blog-content > p {
     font-size: 14px;
-    color: whitesmoke;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
     line-height: 24px;
@@ -664,7 +664,7 @@ i.fa.fa-quote-left {
 }
 
 .blog-content > a {
-    color: whitesmoke;
+    color: #E0E0E0;
 }
 
 
@@ -680,7 +680,7 @@ TABLE SECTION
 }
 
 .table-section .section-title{
-    color: whitesmoke;
+    color: #E0E0E0;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -690,7 +690,7 @@ TABLE SECTION
 
 .table-section .section-cap {
     font-size: 16px;
-    color: #fff;
+    color: #E0E0E0;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
     display: block;
@@ -702,7 +702,7 @@ TABLE SECTION
 }
 
 .table-item {
-    background: #fff;
+    background: #E0E0E0;
     border-radius: 5px;
     padding-top: 30px;
     padding-bottom: 10px;
@@ -735,7 +735,7 @@ TABLE SECTION
     padding: 0;
 }
 .table-item > a {
-    color: #fff;
+    color: #E0E0E0;
     font-weight: 600;
     border-radius: 20px;
     padding: 10px 30px;
@@ -825,18 +825,18 @@ FOOTER SECTION
     color: #012d21;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: whitesmoke;
+    background: #E0E0E0;
     color: #058743 !important;
 }
 
 .social-media > li > a i{
-    color: whitesmoke;
+    color: #E0E0E0;
     margin-top: 10px;
     font-size: 18px;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
     background: #012d21;
-    color: #fff !important;
+    color: #E0E0E0 !important;
 }
 
 
@@ -845,7 +845,7 @@ FOOTER SECTION
 .copyright ul{}
 .copyright ul li{ }
 .copyright ul li a{
-    color: whitesmoke !important;
+    color: #E0E0E0 !important;
  }
 
 .copyright ul li a:hover{
@@ -853,7 +853,7 @@ FOOTER SECTION
 }
 
 .copyright > p , .copyright > p a{
-    color: whitesmoke;
+    color: #E0E0E0;
     font-weight: 600;
     font-family:'ProximaNovaA-Regular';
     font-size: 16px;
