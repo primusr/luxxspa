@@ -22,7 +22,7 @@ body {
     font-size: 13px;
     line-height: 20px;
     position: relative;
-    background: #292727;
+    background: #012d21;
     padding: 0;
     margin: 0;
     overflow: visible;
@@ -53,22 +53,22 @@ div.body {
     color: #fff !important;
 }
 ::-moz-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 :-ms-input-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 .subscribe::-webkit-input-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 .subscribe:-moz-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 .subscribe::-moz-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 .subscribe:-ms-input-placeholder {
-    color: #000 !important;
+    color: #012d21 !important;
 }
 *,*:after,*:before {
     -webkit-box-sizing: border-box;
@@ -158,7 +158,7 @@ body .fixed{
     position: fixed;
     width: 100%;
     display: block;
-    background: rgba(0, 0, 0, 0.7);
+    background: #012d21;
     z-index: 999;
 }
 
@@ -282,7 +282,7 @@ Purilfy section
  */
 .purilfy-section {
     color: #fff;
-    background: #058743;
+    background: #012d21;
     display: block;
     text-align: center;
     padding: 105px 0;
@@ -336,7 +336,7 @@ OFFER SECTION
     padding: 0;
 }
 .offer-section a{
-    background: #058743;
+    background: #012d21;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
@@ -353,7 +353,7 @@ OFFER SECTION
 
 .benefit-section {
     text-align: center;
-    background-color: #058743;
+    background-color: #012d21;
 }
 
 .section-title {
@@ -368,6 +368,7 @@ OFFER SECTION
     border-top: 1px solid whitesmoke;
     border-left: 1px solid whitesmoke;
     border-bottom: 1px solid whitesmoke;
+    background-color: #012d21;
     padding: 0;
 }
 
@@ -438,7 +439,7 @@ MESSAGE SECTION
 .message-section {
     padding: 75px 0;
     text-align: center;
-    background: #000b06;
+    background: #012d21b06;
     display: block;
 }
 .message-section h2{
@@ -469,7 +470,7 @@ MESSAGE SECTION
 .news-item {
 }
 .news-deatils {
-    background: #058743;
+    background: #012d21;
     display: block;
     overflow: hidden;
     border-radius: 5px;
@@ -516,11 +517,11 @@ CLIENT SECTION
 .client-section {
     text-align: center;
     display: block;
-    background: #141314;
+    background: #012d21;
     padding-top: 82px
 }
 .client-section .section-title{
-    color: #058743;
+    color: whitesmoke;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -530,7 +531,7 @@ CLIENT SECTION
 
 .client-section .title-cap {
     font-size: 16px;
-    color: #058743;
+    color: whitesmoke;
     font-family:'ProximaNovaA-Regular';
     font-weight: 400;
     display: block;
@@ -575,7 +576,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item > h3 {
-    color: #058743;
+    color: whitesmoke;
     font-weight: 600;
     font-family:'ProximaNovaA-Semibold';
     font-size: 16px;
@@ -598,7 +599,7 @@ i.fa.fa-quote-left {
     BLOG SECTION
 */
 .blog-section {
-    background: #058743;
+    background: #012d21;
     display: block;
     text-align: center;
     padding: 80px 0;
@@ -815,16 +816,16 @@ FOOTER SECTION
 }
 
 .social-media > li > a {
-    background: #e2e2e2;
+    background: #012d21;
     border-radius: 50%;
     display: block;
     height: 40px;
     width: 40px;
     text-align: center;
-    color: #919191;
+    color: #012d21;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: #058743;
+    background: whitesmoke;
     color: #058743 !important;
 }
 
@@ -834,7 +835,7 @@ FOOTER SECTION
     font-size: 18px;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: #058743;
+    background: #012d21;
     color: #fff !important;
 }
 
@@ -852,13 +853,13 @@ FOOTER SECTION
 }
 
 .copyright > p , .copyright > p a{
-    color: #058743;
+    color: whitesmoke;
     font-weight: 600;
     font-family:'ProximaNovaA-Regular';
     font-size: 16px;
 }
 .copyright > p a:hover{
-    color: #000
+    color: #012d21
 }
 
 .top-button a{
